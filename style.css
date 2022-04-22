@@ -1,0 +1,29 @@
+.navbar{
+    background-color: rgb(0, 0, 0);
+    padding:0px;
+}
+.navbar-brand{
+    padding:0px;
+    margin: 0px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: rgba(255, 255, 255, 0.5);
+}
+.quem-somos{
+    background-color: gray;
+    padding-top: 20px;
+}
+#colaboradores{
+    padding-top: 10px;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+.margin{
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
